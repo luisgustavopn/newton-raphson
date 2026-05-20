@@ -1,0 +1,2 @@
+- Esse programa é parte de um trabalho da disciplina de Cálculo Diferencial e Integral I, do Bacharelado em TI na UFRN. 
+- Ele consiste em um algoritmo capaz de calcular as raízes de uma determinada equação através do método de Newton-Raphson
